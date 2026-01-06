@@ -2,8 +2,6 @@
 
 **DEMO**
 
-C:\Users\paymo\Downloads\MrHelpMateAI-Harshad\assets\helpmate_demo.mp4
-
 
 **Why this matters**
 - Helps users understand complex insurance documents with clear, grounded answers.
