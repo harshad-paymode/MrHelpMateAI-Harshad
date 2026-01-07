@@ -2,8 +2,7 @@
 
 **DEMO**
 
-https://github.com/user-attachments/assets/e1b2017f-90ed-4136-84c8-cb9b8efaecd1
-
+https://github.com/user-attachments/assets/b3b51a80-6222-406c-b020-bd03bf1ee2f6
 
 
 **Why this matters**
